@@ -1,6 +1,17 @@
-# python para iniciantes
-Um pequeno guia para cursos rápidos de Python
+# Primeiro Dia
 
-### [Dia 1](/dia_1.md)
-### [Dia 2](/dia_2.md)
-### [Dia 3](/dia_3.md)
+* Introdução:
+
+  1. Origem;
+  2. Vantagens e desvantagens;
+  3. Mercado de trabalho;
+  4. Exemplos práticos e puriosidades.
+  
+  ---
+* Estrutura básica:
+  
+  1. Variáveis, listas e dicionários;
+  2. Boolean;
+  3. If e for.
+  
+  ---
