@@ -5,7 +5,7 @@
   1. Origem;
   2. Vantagens e desvantagens;
   3. Mercado de trabalho;
-  4. Exemplos práticos e puriosidades.
+  4. Exemplos práticos e curiosidades.
   
   ---
 * Estrutura básica:
