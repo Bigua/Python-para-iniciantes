@@ -1,5 +1,8 @@
 # Terceiro dia
-Atividades
 
-O que é mais vantajoso fazer com Python que com Excel
-Inicio de gráficos com Python
+* Atividades:
+
+  1. O que é mais vantajoso fazer com Python do que com Excel;
+  2. Introdução à gráficos com Python.
+
+  ---
